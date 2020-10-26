@@ -1,1 +1,1 @@
-# Nat_Prot
+# Data and scripts are the part of Supplementary Information of the paper: Lukin, S., Užarević, K. & Halasz, I.  Raman spectroscopy for real-time and in situ monitoring of mechanochemical milling reactions Nat. Protoc. (2020)
